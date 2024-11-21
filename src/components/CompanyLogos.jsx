@@ -4,7 +4,7 @@ const CompanyLogos = ({ className }) => {
   return (
     <div className={className}>
       <h5 className="tagline mb-6 text-center text-n-1/50">
-        Helping people create technical content at
+      They have been instrumental in strengthening my foundation in coding and problem-solving.
       </h5>
       <ul className="flex">
           <li

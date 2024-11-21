@@ -35,7 +35,7 @@ const Hero = () => {
             text-n-2 lg:mb-8">
             I am a passionate full-stack developer with a focus on building modern and responsive web applications. With a strong foundation in both frontend and backend technologies, I strive to create seamless and efficient user experiences.
             </p>
-            <Button target="_blank" href="https://drive.google.com/file/d/1wNkg0-Qv7Mr0vbzzxLLiqTdh1OvDhG9B/view?usp=sharing" white>
+            <Button target="_blank" href="https://drive.google.com/file/d/1Om50c0v-4Hguu4Y0Y9Gtg7AMsD644x4e/view?usp=sharing" white>
                 Resume
             </Button>
             <Button target="_blank" href="https://www.linkedin.com/in/akhilesh-gupta-3b1093222" white className="ml-4">

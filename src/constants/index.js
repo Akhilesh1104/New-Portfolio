@@ -42,7 +42,7 @@ import {
     {
       id: "4",
       title: "Resume",
-      url: "https://drive.google.com/file/d/1wNkg0-Qv7Mr0vbzzxLLiqTdh1OvDhG9B/view?usp=sharing",
+      url: "https://drive.google.com/file/d/1Om50c0v-4Hguu4Y0Y9Gtg7AMsD644x4e/view?usp=sharing",
       onlyMobile: true,
     },
   ];
