@@ -37,7 +37,7 @@ Ensure you have the following software installed on your machine:
 1. Clone this repository to your local machine using Git:
 
     ```bash
-    git clone https://github.com/Akhilesh1104/Latest-Portfolio.git
+    git clone https://github.com/Akhilesh1104/New-Portfolio.git
     ```
 
 2. Navigate to the project directory:
