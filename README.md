@@ -3,7 +3,8 @@ Welcome to my portfolio website built using React.js, Vite, and Tailwind CSS. Th
 
 ## Screenshot
 
-![Screenshot 2024-11-20 210604](https://github.com/user-attachments/assets/ce799102-399f-4e8d-82ae-a233de1e0639)
+![Screenshot 2024-11-21 141115](https://github.com/user-attachments/assets/32ea92d2-f9e7-473a-9168-26b60dfccbf9)
+
 
 ## Features
 
