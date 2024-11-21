@@ -1,5 +1,9 @@
 # Portfolio
-Welcome to my portfolio website built using React.js, Vite, and Tailwind CSS! This website showcases my skills, projects, and services in a visually appealing and interactive manner.
+Welcome to my portfolio website built using React.js, Vite, and Tailwind CSS. This website showcases my skills, projects, and services in a visually appealing and interactive manner.
+
+## Screenshot
+
+![Screenshot 2024-11-21 141115](https://github.com/user-attachments/assets/32ea92d2-f9e7-473a-9168-26b60dfccbf9)
 
 
 ## Features
@@ -33,7 +37,7 @@ Ensure you have the following software installed on your machine:
 1. Clone this repository to your local machine using Git:
 
     ```bash
-    git clone https://github.com/bhartik021/portfolio
+    git clone https://github.com/Akhilesh1104/New-Portfolio.git
     ```
 
 2. Navigate to the project directory:
@@ -54,31 +58,6 @@ Ensure you have the following software installed on your machine:
     yarn install
     ```
 
-### Running the Development Server
-
-Once the dependencies are installed, start the development server:
-
-```bash
-npm start
-```
-
-Or, with yarn:
-
-```bash
-yarn start
-```
-
-The development server should start running, and you should be able to access the portfolio website in your browser at http://localhost:3000.
-
-Now you're ready to explore Bharti Kumari's portfolio website locally on your machine!
-
-If you encounter any issues or have questions, feel free to reach out for assistance. Enjoy exploring!
-
 ## Code Architecture and Reusability
 
 The project is organized following best practices for code architecture, ensuring modularity, scalability, and maintainability. Components are designed to be reusable and easily configurable, allowing for efficient development and future updates.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
